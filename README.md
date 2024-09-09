@@ -12,3 +12,7 @@ Built from Bro Code's [*Let's Code a SNAKE GAME in Python! 🐍*](https://www.yo
   - **Apple**: The base fruit for the game.
   - **Lemon**: Randomly changes the snake's speed after being eaten.
   - **Orange**: Randomly changes the snake's color as it moves.
+
+<img src="https://github.com/user-attachments/assets/99136e21-0c5f-4966-8083-2609bb5a4863" width="300"/>
+<img src="https://github.com/user-attachments/assets/20e3a6db-54c9-4cbb-88d7-9283590cdc99" width="300"/>
+<img src="https://github.com/user-attachments/assets/0528de68-ba3d-4d04-9a51-910e22185262" width="300"/>
