@@ -12,6 +12,11 @@ Built from Bro Code's [*Let's Code a SNAKE GAME in Python! 🐍*](https://www.yo
   - **Apple**: Base mode of game.
   - **Lemon**: Randomly changes the snake's speed after being eaten.
   - **Orange**: Randomly changes the snake's color as it moves.
+ 
+ ## Set up
+ - Clone the repository to an IDE that supports python and run AV_Snake_Game.py.
+ 
+  
 
 <img src="https://github.com/user-attachments/assets/99136e21-0c5f-4966-8083-2609bb5a4863" height=300>
 <img src="https://github.com/user-attachments/assets/20e3a6db-54c9-4cbb-88d7-9283590cdc99" height=300>
